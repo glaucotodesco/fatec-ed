@@ -1,0 +1,3 @@
+Desenvolver uma aplicação que crie uma lista duplamente encadeada que armazena números inteiros.
+Ao inserir um novo elemento na lista, esse deve ser inserido de forma a garantir que a lista esteja sempre ordenada.
+Não deixar repetir valores na lista.
