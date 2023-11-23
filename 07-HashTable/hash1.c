@@ -31,6 +31,7 @@ void insert(char *key, int value) {
     table[index] = newNode;
 }
 
+
 int search(char *key) {
     int index = hash(key);
     struct HashNode *current = table[index];
